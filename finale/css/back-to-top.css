@@ -1,0 +1,9 @@
+.back-to-top{
+    position: fixed;
+    bottom: 30px;
+    padding: 10px;
+    right: 50px;
+    background-color: #c8cfca;
+    color: blueviolet;
+    font-size: larger;
+}

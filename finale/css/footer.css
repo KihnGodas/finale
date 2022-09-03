@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.footer{
+    background-color: blueviolet;
+}
+.footer .lower-footer{
+    font-size: smaller;
+    margin: auto;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
